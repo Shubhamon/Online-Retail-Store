@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Inventory.java&apos; to &apos;Api-gatway/src/main/java/com.gateway.model&apos;&#x0D;&#x0A;- Original project: &apos;Inventory-ws&apos;&#x0D;&#x0A;- Destination element: &apos;Api-gatway/src/main/java/com.gateway.model&apos;&#x0D;&#x0A;- Original element: &apos;com.online.retail.store.model.Inventory.java&apos;" description="Copy compilation unit" destination="=Api-gatway/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.gateway.model" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.online.retail.store.model{Inventory.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1706120557040" units="1" version="1.0"/>
+</session>
